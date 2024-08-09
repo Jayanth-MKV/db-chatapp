@@ -12,7 +12,8 @@ from dotenv import load_dotenv
 app = FastAPI()
 load_dotenv()
 origins = [
-    "http://localhost:3000",  # React default port
+    "http://localhost:3000",
+      "https://ai-sql-agent.vercel.app/"  # React default port
 ]
 
 app.add_middleware(
