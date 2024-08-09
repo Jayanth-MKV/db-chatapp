@@ -9,6 +9,8 @@
 
 `Check the Deployed app :` [`FASTAPI`](https://db-chatapp.onrender.com/docs)
 
+`Check the Demo Video Here :` [`Video`](https://ai-sql-agent.vercel.app/sql-agent.mp4)
+
 ## Setup
 
 Clone the repo  
