@@ -15,6 +15,10 @@ Clone the repo
 ```
 git clone <url>
 ```
+Create a .env file in the root directory with the following content:
+```
+GROQ_API_KEY="..."
+```
 ```
 poetry install
 ```
